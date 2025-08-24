@@ -13,7 +13,7 @@ A web interface for exploring and browsing APIs available through the Coinbase D
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JayuLabs/x402-bazaar-explorer
 cd x402-bazaar-explorer
 ```
 
